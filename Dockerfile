@@ -3,7 +3,7 @@
 
 From tomcat:9-jre11 
 
-COPY ./webapp.war /var/lib/tomcat9/webapps
+COPY ./austin.html /usr/share/nginx/html
 
 
 
