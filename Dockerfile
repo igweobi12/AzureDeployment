@@ -3,7 +3,7 @@
 
 From tomcat:9-jre11 
 
-COPY ./austin.html /usr/share/nginx/html
+COPY ./manage.py /usr/share/nginx/html
 
 
 
